@@ -21,7 +21,7 @@
 
 ### 🏆 Trofeos
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Matipala&theme=tokyonight&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MatiPala&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
