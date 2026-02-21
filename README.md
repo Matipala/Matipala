@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/96054af0-9b22-4e9d-a2ac-25827eaeb9c8)
+![Banner](https://raw.githubusercontent.com/Matipala/Matipala/main/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro.png)
 
 ### 👋 Hola soy Matias!
 
